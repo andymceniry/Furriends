@@ -11,7 +11,7 @@
 
     <description>Furriends</description>
 
-    <!--<icon src="DM-LOGO-128.png" />-->
+    <icon src="logo-white.png" />
     <platform name="android" />
 
     <!--<gap:platform name="android" />-->
