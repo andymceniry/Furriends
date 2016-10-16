@@ -1,5 +1,10 @@
 <script>
 function bodyLoaded() {
+
+    $(function() {
+        $('#iframe').css('height', $('#iframe').height() + 'px');
+    });
+
     var milliseconds = (new Date).getTime(),
         iframe = document.getElementById('iframe');
         
